@@ -20,6 +20,7 @@
     NSLog(@"lcy");
     NSString *sssssssssss = nil;
     NSString *aaa = nil;
+    NSString *yu = @"大神";
     return YES;
 }
 
