@@ -19,6 +19,7 @@
     // Override point for customization after application launch.
     NSLog(@"lcy");
     NSString *sssssssssss = nil;
+    NSString *aaa = nil;
     return YES;
 }
 
