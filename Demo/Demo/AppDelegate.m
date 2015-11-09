@@ -23,6 +23,7 @@
     NSString *yu = @"大神";
     NSString *li = nil;
     NSString *lllll = @"";
+    NSString *fffff = nil;
     return YES;
 }
 
